@@ -1,0 +1,58 @@
+# ==============================================================================
+# GOLD.DE FAKESHOP BLACKLIST – REPORT & DEBUG LOG
+# ==============================================================================
+#
+# -- RUNTIME PROCESS LOG --
+# [SYSTEM]  Pipeline execution triggered.
+# [INFO]    Checking local baseline: blocklist.txt
+# [SYSTEM]  No existing blocklist found. Proceeding with fresh run.
+# [SYSTEM]  Initializing fetch and parse process...
+# [INFO]    Connecting to target URL: https://www.gold.de/fakeshop-blacklist/
+# [SUCCESS] Located target domain container (div.h250scroll).
+# [INFO]    Discovered 461 raw list items to parse.
+# [INFO]    Domain validation and normalization complete.
+# [STATS]   Total entries parsed:     461
+# [STATS]   Invalid lines filtered:   0
+# [STATS]   Duplicate lines removed:  30
+# [STATS]   Valid, unique domains:    432
+# [SYSTEM]  Writing enhanced debug report to debug/blacklist.txt...
+#
+# ------------------------------------------------------------------------------
+# REMOVED DUPLICATE ENTRIES (30)
+# These domains were present multiple times within the source HTML list.
+# ------------------------------------------------------------------------------
+edelmetall-bestellung.de
+edelmetall-lieferant.de
+feingold-scheideanstalt.de
+feingold.online
+feingold99.de
+feingoldscheideanstalt-seit1973.de
+feingoldshop.eu
+goldbank-münchen.de
+goldhandel-o-kaufen.de
+goldhandel-o-kaufen.de
+goldhandel-on-kaufen.de
+goldhandel-punkt.de
+goldhandel-s-1972.de
+goldhandel-testsieger-seit1972.de
+goldhandel-testsieger-seit1972.de
+goldhandel-testsieger-seit1972.de
+goldindo.de
+goldscheideanstalt-2023.com
+goldscheideanstalt-index.de
+goldscheideanstalt-kunden.de
+goldscheideanstalt-kunst.de
+goldscheideanstalt-testsieger.de
+goldscheideanstalt-verkauf.de
+goldscheideanstalt-welz.de
+goldscheideanstalt-wertanlage.de
+goldscheideanstalt1923.de
+goldscheideanstalt1981.at
+mein-goldhandel.de
+meine-goldscheideanstalt.de
+meine-goldscheideanstalt.de
+# ------------------------------------------------------------------------------
+# FILTERED INVALID ENTRIES (0)
+# These entries did not match a valid cryptographic/standard domain schema.
+# ------------------------------------------------------------------------------
+# (no invalid entries found)
