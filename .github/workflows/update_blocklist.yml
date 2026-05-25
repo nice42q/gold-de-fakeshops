@@ -1,0 +1,49 @@
+name: Fakeshop Blocklist Auto-Update
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+ update-list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.head_ref }} 
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        run: python scrape_fakeshops.py
+
+      - name: Upload Error HTML Dump
+        uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: scraper-debug-html
+          path: debug/failed_page.html
+          retention-days: 7
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        if: success()
+        with:
+          commit_message: "🔄 Update: Fakeshop blocklists"
+          file_pattern: '*.txt debug/blacklist.txt stats.json'
