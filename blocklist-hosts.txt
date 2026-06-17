@@ -199,6 +199,7 @@
 0.0.0.0 goldhandel-preisliste.de
 0.0.0.0 goldhandel-preissieger.de
 0.0.0.0 goldhandel-punkt.de
+0.0.0.0 goldhandel-richter.de
 0.0.0.0 goldhandel-rsi-online.de
 0.0.0.0 goldhandel-s-1972.de
 0.0.0.0 goldhandel-seit-1981.de
