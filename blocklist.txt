@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: GOLD.DE Fakeshops
 # Source: https://www.gold.de/fakeshop-blacklist/
 # Pi-hole Source: https://github.com/nice42q/gold-de-fakeshops
-# Last update: 2026-06-17 11:19:06 UTC
+# Last update: 2026-06-18 20:41:10 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       434
+# Total valid domains:       435
 # Duplicate entries removed: 30
 # Invalid lines filtered:    0
 # -------------------------------------------
@@ -396,6 +396,7 @@
 ||heubach-gold.de^
 ||hier-kauf-ich-gold.de^
 ||ihreedelmetallprofis.de^
+||ihrmunzhandler.com^
 ||in-goldscheideanstalt-kaufen.de^
 ||inexmint.com^
 ||irektgold24.de^
