@@ -410,6 +410,7 @@
 0.0.0.0 muenzenexpertshop.com
 0.0.0.0 oldscheideanstalt24.de
 0.0.0.0 online-gold-shop.de
+0.0.0.0 ophirum-web.de
 0.0.0.0 prestigemetalle.de
 0.0.0.0 pro-aurum.gold
 0.0.0.0 rar-sammler.com
