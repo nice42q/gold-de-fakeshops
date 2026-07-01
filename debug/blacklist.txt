@@ -5,20 +5,20 @@
 # -- RUNTIME PROCESS LOG --
 # [SYSTEM]  Pipeline execution triggered.
 # [INFO]    Checking local baseline: blocklist.txt
-# [INFO]    Loaded 435 historical domains from local file.
+# [INFO]    Loaded 436 historical domains from local file.
 # [SYSTEM]  Initializing fetch and parse process...
 # [INFO]    Connecting to target URL: https://www.gold.de/fakeshop-blacklist/
 # [SUCCESS] Located target domain container (div.h250scroll).
-# [INFO]    Discovered 465 raw list items to parse.
+# [INFO]    Discovered 467 raw list items to parse.
 # [INFO]    Domain validation and normalization complete.
-# [STATS]   Total entries parsed:     465
+# [STATS]   Total entries parsed:     467
 # [STATS]   Invalid lines filtered:   0
-# [STATS]   Duplicate lines removed:  30
-# [STATS]   Valid, unique domains:    436
+# [STATS]   Duplicate lines removed:  31
+# [STATS]   Valid, unique domains:    437
 # [SYSTEM]  Writing enhanced debug report to debug/blacklist.txt...
 #
 # ------------------------------------------------------------------------------
-# REMOVED DUPLICATE ENTRIES (30)
+# REMOVED DUPLICATE ENTRIES (31)
 # These domains were present multiple times within the source HTML list.
 # ------------------------------------------------------------------------------
 edelmetall-bestellung.de
@@ -51,6 +51,7 @@ goldscheideanstalt1981.at
 mein-goldhandel.de
 meine-goldscheideanstalt.de
 meine-goldscheideanstalt.de
+muenzenexpertshop.com
 # ------------------------------------------------------------------------------
 # FILTERED INVALID ENTRIES (0)
 # These entries did not match a valid cryptographic/standard domain schema.
