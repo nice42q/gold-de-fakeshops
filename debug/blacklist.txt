@@ -9,12 +9,12 @@
 # [SYSTEM]  Initializing fetch and parse process...
 # [INFO]    Connecting to target URL: https://www.gold.de/fakeshop-blacklist/
 # [SUCCESS] Located target domain container (div.h250scroll).
-# [INFO]    Discovered 467 raw list items to parse.
+# [INFO]    Discovered 468 raw list items to parse.
 # [INFO]    Domain validation and normalization complete.
-# [STATS]   Total entries parsed:     467
+# [STATS]   Total entries parsed:     468
 # [STATS]   Invalid lines filtered:   0
 # [STATS]   Duplicate lines removed:  31
-# [STATS]   Valid, unique domains:    437
+# [STATS]   Valid, unique domains:    438
 # [SYSTEM]  Writing enhanced debug report to debug/blacklist.txt...
 #
 # ------------------------------------------------------------------------------
