@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: GOLD.DE Fakeshops
 # Source: https://www.gold.de/fakeshop-blacklist/
 # Pi-hole Source: https://github.com/nice42q/gold-de-fakeshops
-# Last update: 2026-07-14 14:17:46 UTC
+# Last update: 2026-07-24 14:17:03 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       438
+# Total valid domains:       439
 # Duplicate entries removed: 31
 # Invalid lines filtered:    0
 # -------------------------------------------
@@ -435,6 +435,7 @@
 ||shop-degussa-goldbarren.de^
 ||shop-degussa.de^
 ||shop.degussa-goldbarren.de^
+||silveraureus.com^
 ||sofortgold24.de^
 ||solidus-goldscheideanstalt.de^
 ||storesilvercoins.com^

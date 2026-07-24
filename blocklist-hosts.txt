@@ -424,6 +424,7 @@
 0.0.0.0 shop-degussa-goldbarren.de
 0.0.0.0 shop-degussa.de
 0.0.0.0 shop.degussa-goldbarren.de
+0.0.0.0 silveraureus.com
 0.0.0.0 sofortgold24.de
 0.0.0.0 solidus-goldscheideanstalt.de
 0.0.0.0 storesilvercoins.com
