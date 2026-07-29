@@ -87,6 +87,7 @@
 0.0.0.0 feingoldshop.eu
 0.0.0.0 feingoldsilber.de
 0.0.0.0 feingoldversand.de
+0.0.0.0 firstgoldshop.com
 0.0.0.0 frank-edelmetalle.de
 0.0.0.0 gold-auf-lager.de
 0.0.0.0 gold-barren-muenzen.de
