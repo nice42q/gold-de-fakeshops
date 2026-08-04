@@ -99,6 +99,8 @@ def fetch_and_parse(url):
 
         # Hotfix START
         if text == "gold321.deeinfach-feingold.de":
+            # Log the original line as invalid for debugging purposes
+            invalid_entries.append(f"{text} (hotfix applied - split into gold321.de & einfach-feingold.de)")
             for fixed_domain in ["gold321.de", "einfach-feingold.de"]:
                 if fixed_domain not in seen_domains:
                     seen_domains.add(fixed_domain)
