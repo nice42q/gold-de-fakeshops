@@ -12,7 +12,7 @@
 # [INFO]    Discovered 470 raw list items to parse.
 # [INFO]    Domain validation and normalization complete.
 # [STATS]   Total entries parsed:     470
-# [STATS]   Invalid lines filtered:   0
+# [STATS]   Invalid lines filtered:   1
 # [STATS]   Duplicate lines removed:  31
 # [STATS]   Valid, unique domains:    440
 # [SYSTEM]  Writing enhanced debug report to debug/blacklist.txt...
@@ -53,7 +53,7 @@ meine-goldscheideanstalt.de
 meine-goldscheideanstalt.de
 muenzenexpertshop.com
 # ------------------------------------------------------------------------------
-# FILTERED INVALID ENTRIES (0)
+# FILTERED INVALID ENTRIES (1)
 # These entries did not match a valid cryptographic/standard domain schema.
 # ------------------------------------------------------------------------------
-# (no invalid entries found)
+gold321.deeinfach-feingold.de (hotfix applied - split into gold321.de & einfach-feingold.de)
