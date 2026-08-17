@@ -409,6 +409,7 @@
 0.0.0.0 muenzen-goldgalerie.com
 0.0.0.0 muenzenangebot24.com
 0.0.0.0 muenzenexpertshop.com
+0.0.0.0 muenzenvault.com
 0.0.0.0 oldscheideanstalt24.de
 0.0.0.0 online-gold-shop.de
 0.0.0.0 ophirum-web.de
