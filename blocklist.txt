@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: GOLD.DE Fakeshops
 # Source: https://www.gold.de/fakeshop-blacklist/
 # Pi-hole Source: https://github.com/nice42q/gold-de-fakeshops
-# Last update: 2026-08-17 19:02:05 UTC
+# Last update: 2026-09-02 16:40:58 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       441
+# Total valid domains:       442
 # Duplicate entries removed: 31
 # Invalid lines filtered:    1
 # -------------------------------------------
@@ -410,6 +410,7 @@
 ||kontor-goldscheide.de^
 ||kontor-goldscheideanstalt.de^
 ||kruegerrand-muenze.tv^
+||kuriovault.com^
 ||leeomall.com^
 ||mayjuwelen.de^
 ||mein-goldbarren24.shop^
