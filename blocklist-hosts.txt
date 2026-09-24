@@ -50,6 +50,7 @@
 0.0.0.0 edelmetall-experte.com
 0.0.0.0 edelmetall-lieferant.de
 0.0.0.0 edelmetalle-esg.com
+0.0.0.0 edelmetallshop24.com
 0.0.0.0 edelrhein-metalle.de
 0.0.0.0 einfach-feingold.de
 0.0.0.0 fairtrade-gold-kaufen.de
@@ -409,6 +410,7 @@
 0.0.0.0 mp-edelmetalle.info
 0.0.0.0 muenzen-goldgalerie.com
 0.0.0.0 muenzenangebot24.com
+0.0.0.0 muenzencorner.com
 0.0.0.0 muenzenexpertshop.com
 0.0.0.0 muenzenvault.com
 0.0.0.0 oldscheideanstalt24.de
