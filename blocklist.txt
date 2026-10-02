@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: GOLD.DE Fakeshops
 # Source: https://www.gold.de/fakeshop-blacklist/
 # Pi-hole Source: https://github.com/nice42q/gold-de-fakeshops
-# Last update: 2026-09-24 17:19:36 UTC
+# Last update: 2026-10-02 22:20:45 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       444
+# Total valid domains:       445
 # Duplicate entries removed: 31
 # Invalid lines filtered:    1
 # -------------------------------------------
@@ -172,6 +172,7 @@
 ||goldbarrenhandel24.de^
 ||goldbarrenheld.de^
 ||goldbarrensuche.de^
+||goldbesitz.com^
 ||goldchef.de^
 ||goldcoinsshops.com^
 ||goldengate-goldkaufen.de^

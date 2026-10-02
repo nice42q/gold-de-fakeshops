@@ -161,6 +161,7 @@
 0.0.0.0 goldbarrenhandel24.de
 0.0.0.0 goldbarrenheld.de
 0.0.0.0 goldbarrensuche.de
+0.0.0.0 goldbesitz.com
 0.0.0.0 goldchef.de
 0.0.0.0 goldcoinsshops.com
 0.0.0.0 goldengate-goldkaufen.de
