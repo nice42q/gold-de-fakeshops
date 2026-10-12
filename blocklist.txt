@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: GOLD.DE Fakeshops
 # Source: https://www.gold.de/fakeshop-blacklist/
 # Pi-hole Source: https://github.com/nice42q/gold-de-fakeshops
-# Last update: 2026-10-02 22:20:45 UTC
+# Last update: 2026-10-12 15:43:45 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       445
+# Total valid domains:       446
 # Duplicate entries removed: 31
 # Invalid lines filtered:    1
 # -------------------------------------------
@@ -430,6 +430,7 @@
 ||ophirum-web.de^
 ||ophirum.online^
 ||ophirum.site^
+||philoro.online^
 ||prestigemetalle.de^
 ||pro-aurum.gold^
 ||rar-sammler.com^
