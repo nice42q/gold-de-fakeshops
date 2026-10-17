@@ -419,6 +419,7 @@
 0.0.0.0 ophirum-web.de
 0.0.0.0 ophirum.online
 0.0.0.0 ophirum.site
+0.0.0.0 philoro-de.to
 0.0.0.0 philoro.online
 0.0.0.0 prestigemetalle.de
 0.0.0.0 pro-aurum.gold
