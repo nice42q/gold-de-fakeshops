@@ -2,16 +2,17 @@
 # Pi-hole DNS Blocklist: GOLD.DE Fakeshops
 # Source: https://www.gold.de/fakeshop-blacklist/
 # Pi-hole Source: https://github.com/nice42q/gold-de-fakeshops
-# Last update: 2026-10-17 10:55:59 UTC
+# Last update: 2026-11-02 21:47:36 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       447
+# Total valid domains:       448
 # Duplicate entries removed: 31
 # Invalid lines filtered:    1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
 ||alescommemorativecoins.com^
+||ancientcoinjournal.com^
 ||antike-muenzen.com^
 ||apricoit.com^
 ||archivede.com^

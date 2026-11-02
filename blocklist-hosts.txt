@@ -1,6 +1,7 @@
 # Gold.de Fakeshop Blocklist – Hosts Format
 0.0.0.0 365tageedelmetall.de
 0.0.0.0 alescommemorativecoins.com
+0.0.0.0 ancientcoinjournal.com
 0.0.0.0 antike-muenzen.com
 0.0.0.0 apricoit.com
 0.0.0.0 archivede.com
