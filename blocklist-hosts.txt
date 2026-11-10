@@ -415,6 +415,7 @@
 0.0.0.0 muenzencorner.com
 0.0.0.0 muenzenexpertshop.com
 0.0.0.0 muenzenvault.com
+0.0.0.0 numarver-muenzen.com
 0.0.0.0 oldscheideanstalt24.de
 0.0.0.0 online-gold-shop.de
 0.0.0.0 ophirum-web.de
