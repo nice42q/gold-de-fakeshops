@@ -51,6 +51,7 @@
 0.0.0.0 edelmetall-experte.com
 0.0.0.0 edelmetall-lieferant.de
 0.0.0.0 edelmetalle-esg.com
+0.0.0.0 edelmetalle-web.de
 0.0.0.0 edelmetallshop24.com
 0.0.0.0 edelrhein-metalle.de
 0.0.0.0 einfach-feingold.de
@@ -123,6 +124,7 @@
 0.0.0.0 gold-online-laden.de
 0.0.0.0 gold-onlinekauf.com
 0.0.0.0 gold-onlineshop.com
+0.0.0.0 gold-outlet24.com
 0.0.0.0 gold-profi.com
 0.0.0.0 gold-raffinerie.de
 0.0.0.0 gold-scheide-anstalt.de
